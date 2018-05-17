@@ -247,7 +247,7 @@ ScrollViewKCM {
         QtControls.Button {
             Layout.alignment: Qt.AlignRight
 
-            enabled: availableLanguagesModel.count
+//             enabled: availableLanguagesModel.count
 
             text: i18nc("@action:button", "Add languages...")
 
